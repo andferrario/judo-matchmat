@@ -1,0 +1,15 @@
+# Local environment
+.venv/
+.tools/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+
+# Scan results
+results/
+
+# macOS
+.DS_Store
